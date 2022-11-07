@@ -1239,6 +1239,25 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &318524423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 784b521056e496c48ae1cbfef8e35b70, type: 3}
+  m_PrefabInstance: {fileID: 1256648835}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &318524427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318524423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 318524423}
+  alpha: 0.2
 --- !u!1 &320136452
 GameObject:
   m_ObjectHideFlags: 0
@@ -1357,6 +1376,25 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4505c4120e5138e47a6c33007a5a54c5, type: 3}
   m_PrefabInstance: {fileID: 287008995}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &399988335 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 4bd2da38c13a60049b22ccf64c3a7ac4, type: 3}
+  m_PrefabInstance: {fileID: 163731836}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &399988339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 399988335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 399988335}
+  alpha: 0.2
 --- !u!1001 &421818437
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1502,6 +1540,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 429131376}
   m_CullTransparentMesh: 1
+--- !u!1 &433564803 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 3402a3b318467ee498df6d57ad1bdf98, type: 3}
+  m_PrefabInstance: {fileID: 1325468399}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &433564804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 433564803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 433564803}
+  alpha: 0.2
 --- !u!1 &445185702
 GameObject:
   m_ObjectHideFlags: 0
@@ -1674,6 +1731,25 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: dcace5faad87f7742957af7c5a5ce48f, type: 3}
   m_PrefabInstance: {fileID: 58245036}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &516108970 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: a96a85edf17f83d4b94cb48fee8050d3, type: 3}
+  m_PrefabInstance: {fileID: 1473158015}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &516108974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 516108970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 516108970}
+  alpha: 0.2
 --- !u!1 &542889602
 GameObject:
   m_ObjectHideFlags: 0
@@ -1829,6 +1905,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 556490118}
   m_CullTransparentMesh: 1
+--- !u!1 &561661367 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 4505c4120e5138e47a6c33007a5a54c5, type: 3}
+  m_PrefabInstance: {fileID: 287008995}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &561661371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561661367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 561661367}
+  alpha: 0.2
 --- !u!1 &608667632
 GameObject:
   m_ObjectHideFlags: 0
@@ -2072,6 +2167,25 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &678917240 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: dcace5faad87f7742957af7c5a5ce48f, type: 3}
+  m_PrefabInstance: {fileID: 58245036}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &678917244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 678917240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 678917240}
+  alpha: 0.2
 --- !u!1 &680139013
 GameObject:
   m_ObjectHideFlags: 0
@@ -3435,6 +3549,25 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &871960096 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 985931c915dc06841885fe2ac8ea94b9, type: 3}
+  m_PrefabInstance: {fileID: 1293481049}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &871960100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 871960096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 871960096}
+  alpha: 0.2
 --- !u!1 &947281183
 GameObject:
   m_ObjectHideFlags: 0
@@ -3811,6 +3944,25 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b9dd157f214fa0c4abadb28d1fc90945, type: 3}
   m_PrefabInstance: {fileID: 1443515997}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1009367493 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 576db3ad0d7cc9c45a268725658007d9, type: 3}
+  m_PrefabInstance: {fileID: 765003584}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1009367494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1009367493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 1009367493}
+  alpha: 0.2
 --- !u!1 &1067201312 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4bd2da38c13a60049b22ccf64c3a7ac4, type: 3}
@@ -4422,6 +4574,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1206699569}
   m_CullTransparentMesh: 1
+--- !u!1 &1218657267 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: b45f129217def3147871cb588585d6d8, type: 3}
+  m_PrefabInstance: {fileID: 492354837}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1218657271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1218657267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 1218657267}
+  alpha: 0.2
 --- !u!1 &1230382931
 GameObject:
   m_ObjectHideFlags: 0
@@ -6569,6 +6740,25 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_IsOn: 1
+--- !u!1 &1909442799 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: b9dd157f214fa0c4abadb28d1fc90945, type: 3}
+  m_PrefabInstance: {fileID: 1443515997}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1909442803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909442799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 1909442799}
+  alpha: 0.2
 --- !u!1 &1945450321
 GameObject:
   m_ObjectHideFlags: 0
@@ -7455,6 +7645,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043808003}
   m_CullTransparentMesh: 1
+--- !u!1 &2059816010 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 3836a9fc6737b6d40a23b5b1f0bdd5bb, type: 3}
+  m_PrefabInstance: {fileID: 1952305711}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2059816014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059816010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 2059816010}
+  alpha: 0.2
 --- !u!1 &2110457366
 GameObject:
   m_ObjectHideFlags: 0
@@ -7531,6 +7740,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2110457366}
   m_CullTransparentMesh: 1
+--- !u!1 &2118216624 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 8372f1e44f987ec4aa1b9de87e767daf, type: 3}
+  m_PrefabInstance: {fileID: 421818437}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2118216628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118216624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb6c6318ab5326458f1856f6933e063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameObject: {fileID: 2118216624}
+  alpha: 0.2
 --- !u!1 &2140132416
 GameObject:
   m_ObjectHideFlags: 0
@@ -8261,8 +8489,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 2118216628}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -8624,8 +8852,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 2059816014}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -9134,8 +9362,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 1218657271}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -9347,8 +9575,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 871960100}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -9524,8 +9752,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 1909442803}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -9701,8 +9929,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 561661371}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -9781,8 +10009,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 399988339}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -10657,8 +10885,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 318524427}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -10959,8 +11187,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 678917244}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -11602,8 +11830,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 433564804}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -11998,8 +12226,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 516108974}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
@@ -12397,8 +12625,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MakeTransparent, Assembly-CSharp
+      - m_Target: {fileID: 1009367494}
+        m_TargetAssemblyTypeName: Opacitycontrol, Assembly-CSharp
         m_MethodName: ChangeAlphaOnValueChange
         m_Mode: 2
         m_Arguments:
